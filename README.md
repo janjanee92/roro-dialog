@@ -1,4 +1,4 @@
-# roro-vue
+# roro-dialog
 
 ## Project setup
 ```
